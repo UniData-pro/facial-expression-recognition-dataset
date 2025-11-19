@@ -3,8 +3,6 @@ Dataset comprises **199,955** images featuring **28,565** individuals displaying
 
 By utilizing this dataset, researchers and developers can enhance their understanding of **facial recognition** technology and improve the accuracy of **emotion classification** systems. - **[Get the data](https://unidata.pro/datasets/ai-avatar/?utm_source=github&utm_medium=referral&utm_campaign=facial-expression-recognition-dataset)**
 
-# Examples of data
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F22059654%2F22472a4de7d505ff4962b7eaa14071bf%2F1.png?generation=1740432470830146&alt=media)
 
 This dataset includes images that capture different emotions, such as happiness, sadness, surprise, anger, disgust, and fear, allowing researchers to develop and evaluate recognition algorithms and detection methods. 
 # 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/ai-avatar/?utm_source=github&utm_medium=referral&utm_campaign=facial-expression-recognition-dataset) to discuss your requirements and pricing options.
